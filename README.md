@@ -1,2 +1,5 @@
 # hello-world
-test repository - starting out.
+
+Hi, Everyone.
+
+Looking forward to discovering more ways to automate my stuff!
